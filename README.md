@@ -1,4 +1,4 @@
-# laravelapi-vue
+# profillenyapi-vueui
 
 ## Project setup
 ```
